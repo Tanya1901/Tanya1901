@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tanya1901
 - 👀 I’m interested in Data Science and other analytical directions 
-- 🌱 I’m currently learning at the University of Economics 
+- 🌱 I’m currently studying at the University of Economics 
 - 📫 How to reach me: email: drozdovatd@icloud.com
 
 <!---
